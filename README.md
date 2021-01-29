@@ -1,14 +1,22 @@
 # Displaying-Text-in-P5js
 
+## Reading
+
+[John Cayley, Writing on Complex Surfaces](http://www.dichtung-digital.org/2005/2/Cayley/index.htm)
+
+## Inspiration
+
 [Ben Rubin](https://vimeo.com/52168128)
 
 [Amaranth Borsuk](x)
 
 [Jenny Holzer](x)
 
-## Reading
+Jörg Piringer](https://joerg.piringer.net/)
+
 
 ## Examples
+### Basic Examples
 [Basic Text](https://editor.p5js.org/hippocrit/sketches/VnTVLYqXW)
 
 [Translating Text](https://editor.p5js.org/hippocrit/sketches/WkSsBfNqY)
@@ -27,11 +35,25 @@
 
 [Uploaded Font](https://editor.p5js.org/hippocrit/sketches/oFr1ZkvWO)
 
-[Moving text](x)
+[Escape Characters](https://editor.p5js.org/hippocrit/sketches/oNK-4Lpuj)
 
-[Rotating text](x)
+[Loading Text](https://editor.p5js.org/hippocrit/sketches/Cr1LM1GxU)
 
+[Text Metrics](https://editor.p5js.org/hippocrit/sketches/8azrFy4tW)
 
+### Animating Text
+
+[Moving Text](https://editor.p5js.org/hippocrit/sketches/ZCMk8bHoY)
+
+[Bouncing Text](https://editor.p5js.org/hippocrit/sketches/rjVolthCl)
+
+[Following Text](https://editor.p5js.org/hippocrit/sketches/Mh6p1MfL7)
+
+[Rotating Text](https://editor.p5js.org/hippocrit/sketches/3HpEDSViL)
+
+### Playing with Fonts
+
+### Fonts in Grids
 [Text grid](https://pages.github.com/)
 [3d text](https://pages.github.com/)
 [3d grid](https://pages.github.com/)
