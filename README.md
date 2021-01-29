@@ -1,7 +1,9 @@
 # Displaying-Text-in-P5js
 
 [Ben Rubin](https://vimeo.com/52168128)
+
 [Amaranth Borsuk](x)
+
 [Jenny Holzer](x)
 
 ## Reading
@@ -11,19 +13,23 @@
 
 [Translating Text](https://editor.p5js.org/hippocrit/sketches/WkSsBfNqY)
 
-[Formatting Text (https://editor.p5js.org/hippocrit/sketches/LfCC1ZPCq)
+[Text in a Box](https://editor.p5js.org/hippocrit/sketches/ALFCfZrnj)
 
-[Aligning text](https://pages.github.com/)
+[Text Leading](https://editor.p5js.org/hippocrit/sketches/iOp3Be_4h)
 
-[System font](https://pages.github.com/)
+[Sizing Text](https://editor.p5js.org/hippocrit/sketches/LfCC1ZPCq)
 
-[Uploaded font](https://pages.github.com/)
+[Aligning Text](https://editor.p5js.org/hippocrit/sketches/63e11oRBQ)
 
-[Placing text with translate](https://pages.github.com/)
+[Vertically Aligning Text](https://editor.p5js.org/hippocrit/sketches/EQLSBOLtb)
 
-[Moving text](https://pages.github.com/)
+[System Font](https://editor.p5js.org/hippocrit/sketches/-fsHF3lC-)
 
-[Rotating text](https://pages.github.com/)
+[Uploaded Font](https://editor.p5js.org/hippocrit/sketches/oFr1ZkvWO)
+
+[Moving text](x)
+
+[Rotating text](x)
 
 
 [Text grid](https://pages.github.com/)
