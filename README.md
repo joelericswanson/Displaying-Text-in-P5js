@@ -2,7 +2,7 @@
 
 ## Reading
 
-[John Cayley, Writing on Complex Surfaces](http://www.dichtung-digital.org/2005/2/Cayley/index.htm)
+x
 
 ## Inspiration
 
@@ -51,10 +51,13 @@ Jörg Piringer](https://joerg.piringer.net/)
 
 [Rotating Text](https://editor.p5js.org/hippocrit/sketches/3HpEDSViL)
 
-### Playing with Fonts
+### Playing with Fonts Files
 
 ### Fonts in Grids
+
 [Text grid](https://pages.github.com/)
+
 [3d text](https://pages.github.com/)
+
 [3d grid](https://pages.github.com/)
 
