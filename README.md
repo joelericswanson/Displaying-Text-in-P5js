@@ -75,3 +75,7 @@ https://editor.p5js.org/hippocrit/sketches/ipdOLi-Is
 https://editor.p5js.org/hippocrit/sketches/X4rm2Gg4Q
 https://editor.p5js.org/hippocrit/sketches/bMP4DGPiI
 
+
+### Other Links
+
+[Allison Parrish, Text and Type Demo[(https://creative-coding.decontextualize.com/text-and-type/)
