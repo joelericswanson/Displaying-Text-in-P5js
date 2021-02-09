@@ -6,13 +6,15 @@ x
 
 ## Inspiration
 
+[Andreion de Castro](https://www.instagram.com/andreiongd/?igshid=1t4g2lajwy4va) 
+
 [Ben Rubin](https://vimeo.com/52168128)
 
-[Amaranth Borsuk](x)
+[Amaranth Borsuk, *Between Page and Screen*](https://www.betweenpageandscreen.com/)
 
-[Jenny Holzer](x)
+[Jenny Holzer](https://projects.jennyholzer.com/)
 
-Jörg Piringer](https://joerg.piringer.net/)
+[Jörg Piringer](https://joerg.piringer.net/)
 
 
 ## Examples
@@ -53,6 +55,14 @@ Jörg Piringer](https://joerg.piringer.net/)
 
 ### Playing with Fonts Files
 
+Font
+https://editor.p5js.org/hippocrit/sketches/NisEJeu7w
+https://editor.p5js.org/hippocrit/sketches/H8Xk-1W6f
+https://editor.p5js.org/hippocrit/sketches/rHmL7tSs-
+https://editor.p5js.org/hippocrit/sketches/SnW1-rmyc
+
+
+
 ### Fonts in Grids
 
 [Text grid](https://pages.github.com/)
@@ -60,4 +70,8 @@ Jörg Piringer](https://joerg.piringer.net/)
 [3d text](https://pages.github.com/)
 
 [3d grid](https://pages.github.com/)
+
+https://editor.p5js.org/hippocrit/sketches/ipdOLi-Is
+https://editor.p5js.org/hippocrit/sketches/X4rm2Gg4Q
+https://editor.p5js.org/hippocrit/sketches/bMP4DGPiI
 
