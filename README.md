@@ -55,27 +55,28 @@ x
 
 ### Playing with Fonts Files
 
-Font
-https://editor.p5js.org/hippocrit/sketches/NisEJeu7w
-https://editor.p5js.org/hippocrit/sketches/H8Xk-1W6f
-https://editor.p5js.org/hippocrit/sketches/rHmL7tSs-
-https://editor.p5js.org/hippocrit/sketches/SnW1-rmyc
+This is a paired down version of actual SVG font data, which is much more complicated: [Text to Points](https://erraticgenerator.com/blog/p5js-texttopoints-function/)
 
+[Font Lines](https://editor.p5js.org/hippocrit/sketches/SnW1-rmyc)
+
+[Font Data](https://editor.p5js.org/hippocrit/sketches/NisEJeu7w)
+
+[Text to Points](https://editor.p5js.org/hippocrit/sketches/H8Xk-1W6f)
+
+[Font Letter Morphing](https://editor.p5js.org/hippocrit/sketches/rHmL7tSs-)
 
 
 ### Fonts in Grids
 
 [Text grid](https://pages.github.com/)
 
-[3d text](https://pages.github.com/)
+[Check Palindrome Algorithm](https://editor.p5js.org/hippocrit/sketches/X4rm2Gg4Q)
+
+[3d text](https://www.openprocessing.org/sketch/674191)
 
 [3d grid](https://pages.github.com/)
 
 https://editor.p5js.org/hippocrit/sketches/ipdOLi-Is
-https://editor.p5js.org/hippocrit/sketches/X4rm2Gg4Q
+
 https://editor.p5js.org/hippocrit/sketches/bMP4DGPiI
 
-
-### Other Links
-
-[Allison Parrish, Text and Type Demo[(https://creative-coding.decontextualize.com/text-and-type/)
