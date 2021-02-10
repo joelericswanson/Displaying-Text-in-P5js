@@ -65,18 +65,23 @@ This is a paired down version of actual SVG font data, which is much more compli
 
 [Font Letter Morphing](https://editor.p5js.org/hippocrit/sketches/rHmL7tSs-)
 
+### 3D Text
+
+**P5.js doesn't have good native 3D text capabilities
+
+[3D Text from Image Texture](https://editor.p5js.org/aferriss/sketches/ryL3DmdG7)
+
+[A 3D Text Library](https://www.openprocessing.org/sketch/674191)
+
 
 ### Fonts in Grids
 
-[Text grid](https://pages.github.com/)
-
 [Check Palindrome Algorithm](https://editor.p5js.org/hippocrit/sketches/X4rm2Gg4Q)
 
-[3d text](https://www.openprocessing.org/sketch/674191)
+[Text Grid](https://editor.p5js.org/hippocrit/sketches/bNLLQGapP)
 
-[3d grid](https://pages.github.com/)
-
-https://editor.p5js.org/hippocrit/sketches/ipdOLi-Is
+[Palindrome 3D Grid](https://editor.p5js.org/hippocrit/sketches/syFsgxBxa)
 
 https://editor.p5js.org/hippocrit/sketches/bMP4DGPiI
+
 
