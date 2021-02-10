@@ -1,9 +1,5 @@
 # Displaying-Text-in-P5js
 
-## Reading
-
-x
-
 ## Inspiration
 
 [Andreion de Castro](https://www.instagram.com/andreiongd/?igshid=1t4g2lajwy4va) 
