@@ -78,6 +78,4 @@ This is a paired down version of actual SVG font data, which is much more compli
 
 [Palindrome 3D Grid](https://editor.p5js.org/hippocrit/sketches/syFsgxBxa)
 
-https://editor.p5js.org/hippocrit/sketches/bMP4DGPiI
-
 
