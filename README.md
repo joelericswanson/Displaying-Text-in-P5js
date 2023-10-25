@@ -49,7 +49,7 @@
 
 [Rotating Text](https://editor.p5js.org/hippocrit/sketches/3HpEDSViL)
 
-### Playing with Fonts Files
+### Using Fonts
 
 This is a paired down version of actual SVG font data, which is much more complicated: [Text to Points](https://erraticgenerator.com/blog/p5js-texttopoints-function/)
 
