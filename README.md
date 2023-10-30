@@ -4,13 +4,6 @@
 
 [Andreion de Castro](https://www.instagram.com/andreiongd/?igshid=1t4g2lajwy4va) 
 
-[Ben Rubin](https://vimeo.com/52168128)
-
-[Amaranth Borsuk, *Between Page and Screen*](https://www.betweenpageandscreen.com/)
-
-[Jenny Holzer](https://projects.jennyholzer.com/)
-
-[Jörg Piringer](https://joerg.piringer.net/)
 
 
 ## Examples
