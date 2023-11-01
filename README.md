@@ -52,6 +52,10 @@ This is a paired down version of actual SVG font data, which is much more compli
 
 [Text to Points](https://editor.p5js.org/hippocrit/sketches/H8Xk-1W6f)
 
+[Text to Points: 2D Array for Each Letter](https://editor.p5js.org/hippocrit/sketches/JVnfQ4eJU)
+
+[Opentype.js](https://editor.p5js.org/hippocrit/sketches/AWoOJ0kk8t)
+
 [Font Letter Morphing](https://editor.p5js.org/hippocrit/sketches/rHmL7tSs-)
 
 ### 3D Text
