@@ -58,7 +58,8 @@ This is a paired down version of actual SVG font data, which is much more compli
 
 [Font Letter Morphing](https://editor.p5js.org/hippocrit/sketches/rHmL7tSs-)
 
-[Using Adobe Fonts in p5.js] (https://editor.p5js.org/hippocrit/sketches/LLDseDpaa)
+[Using Adobe Fonts in p5.js](https://editor.p5js.org/hippocrit/sketches/LLDseDpaa)
+
 ### 3D Text
 
 **P5.js doesn't have good native 3D text capabilities
